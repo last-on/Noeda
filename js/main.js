@@ -1,3 +1,0 @@
-// EditorJS init
-import EditorJS from '@editorjs/editorjs';
-const editor = new EditorJS('editorjs');
